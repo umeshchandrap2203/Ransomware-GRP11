@@ -22,6 +22,10 @@ The project’s objective was to simulate real-world ransomware tactics and defe
 Feel free to explore the repository for detailed simulation setups, findings, and recommendations on enhancing cybersecurity practices.
 
 
+
+
+
+
 Team:
 
 Umesh Chandra Puligundla – 11640612
