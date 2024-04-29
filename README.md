@@ -12,3 +12,11 @@ Objectives:
 The project’s objective was to simulate real-world ransomware tactics and defense strategies to provide insights into effective countermeasures and enhance preparedness against such cybersecurity threats.
 
 Feel free to explore the repository for detailed simulation setups, findings, and recommendations on enhancing cybersecurity practices.
+
+
+Team:
+Umesh Chandra Puligundla – 11640612
+Mohana Lakshmi Prasanna – 11726505
+Samhitha Renati – 11650251
+Himaja Kutikuppala – 11600609
+Pranav Raj Rangaraju- 11704878
