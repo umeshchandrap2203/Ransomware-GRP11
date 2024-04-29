@@ -30,7 +30,7 @@ Team:
 
 Umesh Chandra Puligundla – 11640612
 
-Mohana Lakshmi Prasanna – 11726505
+Mohana Lakshmi Prasanna Potluri – 11726505
 
 Samhitha Renati – 11650251
 
